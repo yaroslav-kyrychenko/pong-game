@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is my first attempt to build a game using the Python programming language. The turtle library was chosed due to several reasong: 
+This is my first attempt to build a game using the Python programming language. The turtle library was chosed due to several reasons: 
 1) it's simple and user-friendly for beginners;
 2) the documentation is understandable for the beginners;
 3) it's a built-in Python library and does not require additional installation. 
